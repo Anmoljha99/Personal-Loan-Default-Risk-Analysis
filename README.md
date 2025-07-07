@@ -8,22 +8,12 @@ I used Python and a simple machine learning model called **logistic regression**
 
 ---
 
-## 🔍 What the Project Does
+ 🔍 What the Project Does
 
 - Loads real-looking loan data (like income and loan amount)
 - Analyzes the data using charts (EDA)
 - Builds a model that predicts if someone will default or not
 - Shows how accurate the model is using a confusion matrix
-
----
-
-## 📁 Files in This Project
-
-| File | What it does |
-|------|--------------|
-| `loan_analysis.py` | The main Python code with all analysis and model steps |
-| `loan_default_cleaned_final.csv` | The dataset used in this project |
-| `README.md` | This explanation file
 
 ---
 
