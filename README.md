@@ -1,6 +1,6 @@
 # Personal-Loan-Default-Risk-Analysis
 Logistic regression-based model to predict loan defaults with Exploratory Data Analysis Using Python and Excel.
-# 📉 Loan Default Risk Prediction
+# Loan Default Risk Prediction
 
 This project predicts whether a customer will default on a personal loan based on information like their income, loan amount, credit history, and education level.
 
@@ -39,7 +39,6 @@ The model uses:
 
 Then it predicts whether the person is likely to default (1) or not (0).
 
----
  👤 Created by
 Anmol Jha 
  anmoljha1252@gmail.com  
